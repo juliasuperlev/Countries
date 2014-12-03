@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="grey">#ff545255</color>
+    <color name="white">#ffcec0b0</color>
+
+    <color name="menu_focused_pressed_gray_color">#404040</color>
+    <color name="blue_dark_color">#3280b8</color>
+
+    <color name="black">#ff0f0f11</color>
+    <color name="white_for_button">#fff</color>
+</resources>
